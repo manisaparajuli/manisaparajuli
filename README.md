@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manisha</h1>
-<h3 align="center">A passionate frontend developer from Melbourne</h3>
+<h3 align="center">A passionate full-stack developer from Melbourne</h3>
 
 - 🔭 I’m currently working on [The florist](https://florist-amber.vercel.app/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://manisaparajuli.github.io/react-portfolio/](https://manisaparajuli.github.io/react-portfolio/)
 
